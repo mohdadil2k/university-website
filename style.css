@@ -242,7 +242,7 @@ p{
 /* facilites */
 .facilities{
     width: 80%;
-    margin: auto;
+    margin:100px auto 0;
     text-align: center;
 }
 
